@@ -23,9 +23,13 @@ achieve this goal, this team of researchers suggests to craft rubrics based on t
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding archiving
 and retention.
 
-Addition details on workshops will be provided as they become available
+## Tentative Workshop Dates
+* Boulder, CO workshop: May 5-8
+* Grand Forks, ND workshop: Aug. 3-6
+
+If you are interested in participating, please contact Doug Schuster, schuster@ucar.edu.
 
 Please find the award information through the following links:
 
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929773&HistoricalAwards=false
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929757&HistoricalAwards=false
+[NSF Award 1929773](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929773&HistoricalAwards=false)
+[NSF Award 1929757](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929757&HistoricalAwards=false)
