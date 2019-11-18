@@ -24,8 +24,8 @@ researchers and centers describe their model data in consistent terms so that pr
 and retention.
 
 ## Tentative Workshop Dates
-* Boulder, CO workshop: May 5-8
-* Grand Forks, ND workshop: Aug. 3-6
+* Boulder, CO workshop: May 5-8, 2020
+* Grand Forks, ND workshop: Aug. 3-6, 2020
 
 If you are interested in participating, please contact Doug Schuster, schuster@ucar.edu.
 
