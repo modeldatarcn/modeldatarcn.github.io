@@ -34,7 +34,7 @@ and retention.
 
 Additional details will be provided as they become available.
 
-If you are interested in participating in either or both workshops, please contact Doug Schuster, schuster@ucar.edu. Please provide a brief summary of your background, and why you would be interested in participating.
+If you are interested in participating in one or both workshops, please provide a brief summary of your background, and why you are interested in participating to Doug Schuster, schuster@ucar.edu. 
 
 ## [Steering Committee](#steering-committee)
  
