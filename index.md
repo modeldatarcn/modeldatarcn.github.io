@@ -1,6 +1,6 @@
-* [Project Description](https://modeldatarcn.github.io/#project-desc)
-* [Workshop Information](https://modeldatarcn.github.io/#workshop-info)
-* [Project Steering Committee](https://modeldatarcn.github.io/#steering-committee)
+* [Project Description](index.md/#project-desc)
+* [Workshop Information](index.md/#workshop-info)
+* [Project Steering Committee](index.md/#steering-committee)
 
 ## [Project Description](#project-desc)
 Much of the research in the geosciences, such as projecting future changes in the environment and improving weather and flood
