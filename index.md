@@ -23,16 +23,16 @@ achieve this goal, this team of researchers suggests to craft rubrics based on t
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding archiving
 and retention.
 
-## Tentative Workshop Dates
+## [Tentative Workshop Dates](#workshop-info)
 * Boulder, CO workshop: May 5-8, 2020
 * Grand Forks, ND workshop: Aug. 3-6, 2020
 
-## Steering Committee
+If you are interested in participating in either or both workshops, please contact Doug Schuster, schuster@ucar.edu. Please provide a brief summary of your background, and why you would be interested in participating.
+
+## [Steering Committee](#steering-committee)
 * [Steering Committee Members](steering_com.md)
 
-If you are interested in participating, please contact Doug Schuster, schuster@ucar.edu. Please provide a brief summary of your background, and why you would be interested in participating.  
-
-Please find the award information through the following links:
+Project award information can be found through the following links:
 
 [NSF Award 1929773](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929773&HistoricalAwards=false)
 
