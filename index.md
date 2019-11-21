@@ -40,7 +40,7 @@ If you are interested in participating in one or both workshops, please provide 
 ## [Steering Committee](#steering-committee)
  
 ### Adam Clark, NOAA/University of Oklahoma
-* Dr. Clark is a Research Meteorologist at the NOAA 
+Dr. Clark is a Research Meteorologist at the NOAA 
 and Affiliate Associate Professor in the School of Meteorology at the University of Oklahoma. 
 He is one of the lead planners and facilitators for the annual NOAA/Hazardous Weather Testbed 
 Spring Forecasting Experiments and his primary research interests are geared toward developing 
