@@ -2,7 +2,7 @@
 * [Workshop Information](index.md/#workshop-info)
 * [Project Steering Committee](index.md/#steering-committee)
 
-# [Project Description](#project-desc)
+## [Project Description](#project-description)
 Much of the research in the geosciences, such as projecting future changes in the environment and improving weather and flood
 forecasting, is conducted using computational models that simulate the Earth's atmosphere, oceans, and land surfaces. These
 geoscience models are part of the full research workflow that leads to scientific discovery. There is strong agreement across
@@ -26,7 +26,7 @@ achieve this goal, this team of researchers suggests to craft rubrics based on t
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding archiving
 and retention.
 
-## [Workshop Information](#workshop-info)
+## [Workshop Information](#workshop-information)
 * Tentative Workshop Dates and Locations
   * Boulder, CO workshop: May 5-8, 2020
   * Grand Forks, ND workshop: Aug. 3-6, 2020
