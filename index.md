@@ -1,4 +1,8 @@
-# Project Description
+* [Project Description](https://modeldatarcn.github.io/#project-desc)
+* [Workshop Information](https://modeldatarcn.github.io/#workshop-info)
+* [Project Steering Committee](https://modeldatarcn.github.io/#steering-committee)
+
+## [Project Description](#project-desc)
 
 Much of the research in the geosciences, such as projecting future changes in the environment and improving weather and flood
 forecasting, is conducted using computational models that simulate the Earth's atmosphere, oceans, and land surfaces. These
@@ -23,17 +27,18 @@ achieve this goal, this team of researchers suggests to craft rubrics based on t
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding archiving
 and retention.
 
-## [Tentative Workshop Dates](#workshop-info)
-* Boulder, CO workshop: May 5-8, 2020
-* Grand Forks, ND workshop: Aug. 3-6, 2020
+## [Workshop Information](#workshop-info)
+* Tentative Workshop Dates and Locations
+  * Boulder, CO workshop: May 5-8, 2020
+  * Grand Forks, ND workshop: Aug. 3-6, 2020
+
+Additional details will be provided as they become available.
 
 If you are interested in participating in either or both workshops, please contact Doug Schuster, schuster@ucar.edu. Please provide a brief summary of your background, and why you would be interested in participating.
 
 ## [Steering Committee](#steering-committee)
 * [Steering Committee Members](steering_com.md)
 
-Project award information can be found through the following links:
-
+### Project award information can be found through the following links:
 [NSF Award 1929773](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929773&HistoricalAwards=false)
-
 [NSF Award 1929757](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929757&HistoricalAwards=false)
