@@ -27,6 +27,9 @@ and retention.
 * Boulder, CO workshop: May 5-8, 2020
 * Grand Forks, ND workshop: Aug. 3-6, 2020
 
+## Steering Committee
+* [Steering Committee Members](steering_com.md)
+
 If you are interested in participating, please contact Doug Schuster, schuster@ucar.edu. Please provide a brief summary of your background, and why you would be interested in participating.  
 
 Please find the award information through the following links:
