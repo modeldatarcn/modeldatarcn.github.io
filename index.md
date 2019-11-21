@@ -29,7 +29,7 @@ researchers and centers describe their model data in consistent terms so that pr
 and retention.
 
 ## [Workshop Information](#workshop-information)
-* Tentative Workshop Dates and Locations
+* Workshop Locations and Dates
   * Boulder, CO workshop: May 5-8, 2020
   * Grand Forks, ND workshop: Aug. 3-6, 2020
 
