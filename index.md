@@ -99,7 +99,7 @@ chair of the AMS Board on Data Stewardship.
 engineer specializing in climate model data management (archiving, access, metadata, provenance, etc.), 
 data analysis and visualization, and the many issues involved with terascale and petascale data.
 
-## [Project Award Information](#project-award-information]
+## [Project Award Information](#project-award-information)
 
 [NSF Award 1929773](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1929773&HistoricalAwards=false)
 
