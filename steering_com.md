@@ -1,4 +1,4 @@
-# Steering committee for EarthCube RCN,"What About Model Data?" Determining Best Practices for Archiving and Reproducibility
+# Steering committee members 
 
 ### Adam Clark, NOAA/University of Oklahoma
 Dr. Clark is a Research Meteorologist at the NOAA 
