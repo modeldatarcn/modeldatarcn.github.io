@@ -2,7 +2,7 @@
 * [Workshop Information](index.md/#workshop-info)
 * [Project Steering Committee](index.md/#steering-committee)
 
-## [Project Description](#project-desc)
+# [Project Description](#project-desc)
 Much of the research in the geosciences, such as projecting future changes in the environment and improving weather and flood
 forecasting, is conducted using computational models that simulate the Earth's atmosphere, oceans, and land surfaces. These
 geoscience models are part of the full research workflow that leads to scientific discovery. There is strong agreement across
