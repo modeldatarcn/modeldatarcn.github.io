@@ -35,7 +35,9 @@ and retention.
 
 Additional details will be provided as they become available.
 
-If you are interested in participating in one or both workshops, please provide a brief summary of your background, and why you are interested in participating to Doug Schuster, schuster@ucar.edu. 
+If you are interested in participating in one or both workshops, please provide the following information to Doug Schuster, schuster@ucar.edu: 
+* A brief statement on why you are interested in participating
+* Background on your experience with computational models and data 
 
 ## [Steering Committee](#steering-committee)
  
