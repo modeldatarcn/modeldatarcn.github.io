@@ -1,5 +1,5 @@
-* [Project Description](index.md/#project-desc)
-* [Workshop Information](index.md/#workshop-info)
+* [Project Description](index.md/#project-description)
+* [Workshop Information](index.md/#workshop-information)
 * [Project Steering Committee](index.md/#steering-committee)
 
 ## [Project Description](#project-description)
