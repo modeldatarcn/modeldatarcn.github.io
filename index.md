@@ -88,8 +88,8 @@ She has used models for many different outcomes, ranging from idealized sensitiv
 real-time operational forecasting. Dr. Mullendore teaches graduate-level classes in NWP and 
 is a member of the Unidata Strategic Advisory Committee.
 
-### Eliza Murillo, Univeristy of Oklahoma, School of Meteorology
-Ms. Murillo is pursuing her PHD at OU.
+### Elisa Murillo, Univeristy of Oklahoma, School of Meteorology
+Ms. Murillo is a PhD student in the School of Meteorology at the University of Oklahoma working with Dr. Cameron Homeyer. Her research interests focus on tropopause-penetrating convection, and her model experience includes a variety of science objectives, such as idealized sensitivity studies of mesoscale models and global ensemble models (e.g. CESM).
 
 ### Douglas Schuster, NCAR, Computational & Information System Laboratory, co-PI
 Mr. Schuster is the manager for the Data Engineering and Curation Section at NCAR, 
