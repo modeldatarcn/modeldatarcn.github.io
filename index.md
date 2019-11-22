@@ -65,7 +65,7 @@ Community Earth System Model (CESM) – an internationally recognized, data-inte
 community-developed, state-of-the-art global climate model.
 
 ### Josh Hacker, Jupiter
-Dr. Hacker is the co-founder of Earth and Ocean Systems at Jupiter.
+Dr. Hacker is a co-founder of Jupiter Intelligence, Inc., and leads the Earth and Ocean Systems team at Jupiter.  His research has spanned numerical weather prediction, predictability and data assimilation.  His computing experience and interests span traditional HPC to public cloud platforms.
 
 ### Michael A. Friedman, American Meteorological Society (AMS) 
 Dr. Friedman is the Acting Co-Director of Publications and Journals Production Manager within 
