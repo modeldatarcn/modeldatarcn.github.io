@@ -24,7 +24,7 @@ Community Earth System Model (CESM) – an internationally recognized, data-inte
 community-developed, state-of-the-art global climate model.
 
 ### Josh Hacker, Jupiter
-Dr. Hacker is the co-founder of Earth and Ocean Systems at Jupiter.
+Dr. Hacker is a co-founder of Jupiter Intelligence, Inc., and leads the Earth and Ocean Systems team at Jupiter.  His research has spanned numerical weather prediction, predictability and data assimilation.  His computing experience and interests span traditional HPC to public cloud platforms.
 
 ### Michael A. Friedman, American Meteorological Society (AMS) 
 Dr. Friedman is the Acting Co-Director of Publications and Journals Production Manager within 
@@ -47,8 +47,8 @@ She has used models for many different outcomes, ranging from idealized sensitiv
 real-time operational forecasting. Dr. Mullendore teaches graduate-level classes in NWP and 
 is a member of the Unidata Strategic Advisory Committee.
 
-### Eliza Murillo, Univeristy of Oklahoma, School of Meteorology
-Ms. Murillo is pursuing her PHD at OU.
+### Elisa Murillo, Univeristy of Oklahoma, School of Meteorology
+Ms. Murillo is a PhD student in the School of Meteorology at the University of Oklahoma working with Dr. Cameron Homeyer. Her research interests focus on tropopause-penetrating convection, and her model experience includes a variety of science objectives, such as idealized sensitivity studies of mesoscale models and global ensemble models (e.g. CESM).
 
 ### Douglas Schuster, NCAR, Computational & Information System Laboratory, co-PI
 Mr. Schuster is the manager for the Data Engineering and Curation Section at NCAR, 
