@@ -31,7 +31,7 @@ and retention.
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
   * Boulder, CO workshop: May 5-7, 2020
-  * Grand Forks, ND workshop: Aug. 3-7, 2020
+  * Grand Forks, ND workshop: Aug. 3-5, 2020
 
 Additional details will be provided as they become available.
 
