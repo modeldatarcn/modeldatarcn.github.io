@@ -30,8 +30,8 @@ and retention.
 
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
-  * Boulder, CO workshop: May 5-8, 2020
-  * Grand Forks, ND workshop: Aug. 3-6, 2020
+  * Boulder, CO workshop: May 5-7, 2020
+  * Grand Forks, ND workshop: Aug. 3-7, 2020
 
 Additional details will be provided as they become available.
 
@@ -47,11 +47,6 @@ and Affiliate Associate Professor in the School of Meteorology at the University
 He is one of the lead planners and facilitators for the annual NOAA/Hazardous Weather Testbed 
 Spring Forecasting Experiments and his primary research interests are geared toward developing 
 tools and improving forecast models used for predicting severe weather.
-
-### Gilbert Compo, Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
-Dr. Compo is a Senior Research Scientist at CIRES who co-leads the ongoing NOAA 20th Century 
-Reanalysis Project. Through his research, he has vast experience generating and working with 
-umerical model generated ocean and atmospheric historical reanalysis products. 
 
 ### Laura Condon, University of Arizona, Hydrology and Atmospheric Sciences
 Dr. Condon researches water sustainability and the dynamics of hydrologic systems in the context of 
