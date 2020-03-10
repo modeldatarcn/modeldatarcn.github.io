@@ -91,6 +91,9 @@ Mr. Schuster is the manager for the Data Engineering and Curation Section at NCA
 which manages the NCAR Research Data Archive (RDA). He is also the current 
 chair of the AMS Board on Data Stewardship.
 
+### Cathy Smith, NOAA ESRL, Physical Sciences Division
+Ms. Smith is a Senior Associate Scientist at NOAA ESRL, PSD. She recieved her undergraduate and graduate degrees in atmospheric sciences with an emphasis on climate and statistics.  She is a strong advocate of giving researchers and the public the data and tools they need to investigate climate and weather themselves.  
+
 ### Gary Strand, NCAR, Climate and Global Dynamics Laboratory
 Mr. Strand is the CESM Data Manager. He brings considerable experience as a software 
 engineer specializing in climate model data management (archiving, access, metadata, provenance, etc.), 
