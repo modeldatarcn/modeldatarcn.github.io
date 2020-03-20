@@ -31,7 +31,7 @@ and retention.
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
   * Virtual: May 5-7, 2020
-    * Agenda to be provided soon.
+    * Agenda to be provided soon
   * Grand Forks, ND workshop: Aug. 3-5, 2020
 
 Additional details will be provided as they become available.
