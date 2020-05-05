@@ -31,7 +31,7 @@ and retention.
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
   * Virtual: May 5-7, 2020
-    * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
+    * [Agenda]("workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf") 
     * [Workshop Welcome Video](workshop1/presentations/welcome_video.mp4)
   * Grand Forks, ND workshop: Aug. 3-5, 2020
 
