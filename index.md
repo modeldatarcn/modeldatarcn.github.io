@@ -33,7 +33,9 @@ and retention.
   * Virtual: May 5-7, 2020
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
     * [Workshop Welcome Video](workshop1/presentations/welcome_video.mp4)
-  * Grand Forks, ND workshop: Aug. 3-5, 2020
+  * Virtual: Aug 3-5, 2020
+    * Registration details will be provided soon.  If you are interested in participating, please email Doug Schuster schuster@ucar.edu
+    
 
 Additional details will be provided as they become available.
 
