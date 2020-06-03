@@ -34,14 +34,11 @@ and retention.
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
     * [Workshop Welcome Video](workshop1/presentations/welcome_video.mp4)
   * Virtual: Aug 3-5, 2020
-    * Registration details will be provided soon.  If you are interested in participating, please email Doug Schuster schuster@ucar.edu
+    * Registration details will be provided soon.
     
-
-Additional details will be provided as they become available.
-
-If you are interested in participating in one or both workshops, please provide the following information to Doug Schuster, schuster@ucar.edu: 
-* A brief statement on why you are interested in participating
-* Background on your experience with computational models and data 
+If you are interested in participating in the Aug 2020 workshop, please provide the following information to Doug Schuster, schuster@ucar.edu: 
+  * A brief statement on why you are interested in participating
+  * Background on your experience with computational models and data 
 
 ## [Steering Committee](#steering-committee)
  
