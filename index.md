@@ -34,7 +34,7 @@ and retention.
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
     * [Workshop Welcome Video](workshop1/presentations/welcome_video.mp4)
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
-    * [Workshop Outputs](workshop1/documents/outputs.md
+    * [Workshop Outputs](workshop1/documents/outputs.md)
   * Virtual: Aug 3-5, 2020
     * Registration details will be provided soon.
     
