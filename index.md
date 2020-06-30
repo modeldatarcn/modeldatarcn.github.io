@@ -38,10 +38,6 @@ and retention.
   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
     * [Aug 2020 Workshop Registration Form](https://forms.gle/g1A4FyRVBzPgeA699)  
     * Workshop Registration closes July 21, 2020
-    
-If you are interested in participating in the Aug 2020 workshop, please provide the following information to Doug Schuster, schuster@ucar.edu: 
-  * A brief statement on why you are interested in participating
-  * Background on your experience with computational models and data 
 
 ## [Steering Committee](#steering-committee)
  
