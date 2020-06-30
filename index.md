@@ -35,8 +35,8 @@ and retention.
     * [Workshop Welcome Video](workshop1/presentations/welcome_video.mp4)
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
     * [Workshop Outputs](workshop1/documents/outputs.md)
-  * Virtual: Aug 3-5, 2020
-    * Registration details will be provided soon.
+  * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
+    * [Aug 2020 Workshop Registration Form](https://forms.gle/g1A4FyRVBzPgeA699).  Registration closes July 21, 2020
     
 If you are interested in participating in the Aug 2020 workshop, please provide the following information to Doug Schuster, schuster@ucar.edu: 
   * A brief statement on why you are interested in participating
