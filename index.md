@@ -1,6 +1,7 @@
 ## Navigate to:
 * [Project Description](index.md/#project-description)
 * [Workshop Information](index.md/#workshop-information)
+* [Rubric Worksheet Versions](rubrics-worksheets/rubrics.md)
 * [Project Steering Committee](index.md/#steering-committee)
 * [Project Award Information](index.md/#project-award-information)
 
