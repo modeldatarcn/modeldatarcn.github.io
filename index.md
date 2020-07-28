@@ -37,8 +37,7 @@ and retention.
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
     * [Workshop Outputs](workshop1/documents/outputs.md)
   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
-    * [Aug 2020 Workshop Registration Form](https://forms.gle/g1A4FyRVBzPgeA699)  
-    * Workshop Registration closes July 21, 2020
+    * Workshop agenda to be provided
 
 ## [Steering Committee](#steering-committee)
  
