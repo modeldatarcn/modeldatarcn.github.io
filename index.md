@@ -33,11 +33,12 @@ and retention.
 * Workshop Locations and Dates
   * Virtual: May 5-7, 2020
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
-    * [Workshop Welcome Video](workshop1/presentations/welcome_video.mp4)
+    * [Workshop 1 Welcome Video](workshop1/presentations/welcome_video.mp4)
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
     * [Workshop Outputs](workshop1/documents/outputs.md)
   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
     * Workshop agenda to be provided
+    * [Workshop 2 Welcome Video](workshop2/presentations/Welcome_WhatAboutModelData_Aug2020.mp4)
 
 ## [Steering Committee](#steering-committee)
  
