@@ -37,7 +37,7 @@ and retention.
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
     * [Workshop Outputs](workshop1/documents/outputs.md)
   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
-    * [Agenda](https://docs.google.com/document/d/1g7H9az8uLEkSMbxoL37vjhlTjH1LHZeXWmtKgmTso4I/edit?usp=sharing)
+    * [Agenda](workshop2/documents/Model Data RCN Virtual Workshop 2 Agenda.pdf)
     * [Workshop 2 Welcome Video](workshop2/presentations/Welcome_WhatAboutModelData_Aug2020.mp4)
 
 ## [Steering Committee](#steering-committee)
