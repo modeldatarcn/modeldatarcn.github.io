@@ -1,5 +1,5 @@
 ## Aug 3, 2020 Workshop Plenary Presentations
-  * [CESM's New Data Workflow for CMIP6, Sheri Mickleson, NCAR](Mickelson-EarhCube_RCN.pdf) 
-  * [When should a simulation be FAIR?, Bryan Lawrence, UK NCAS](200505-fair-lawrence.pdf)
-  * [Minor adjustments, major benefits: Assessing reproducibility in hydrology research, James Stagge, OSU](Stagge - Reproducibility.pdf)
-   
+  * [Idealized Parameter Study, Gretchen Mullendore, UND](Idealized_parameter_study-mullendore.pptx) 
+  * [Warn on Forecast, Adam Clark, NOAA/OU](Use-Case-WoFS-clark.pptx)
+  * [Integrated hydrologic modeling at the continental scale, Laura Condon, UofAz](ModelData_RCN.condonpdfv2.pdf)
+  * [Data Policies and Practices AGU Publications Models and Model Output, Brooks Hanson, AGU)[RCN - Hanson.pptx]
