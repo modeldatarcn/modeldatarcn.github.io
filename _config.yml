@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: EarthCube RCN, "What About Model Data?" Determining Best Practices for Archiving and Reproducibility
 author: dcschus
 email: schuster@ucar.edu
-logo: logo_earthcube_full_horizontal.png
 description: > # this means to ignore newlines until "baseurl:"
   Project Information Website
 
