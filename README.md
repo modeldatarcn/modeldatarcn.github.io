@@ -1,7 +1,7 @@
 # modeldatarcn.github.io
 <p align="center">
-  <a href="http://earthcube.org/"><img src="images/logo_earthcube_full_horizontal.png" height="150">
-  <a href="https://nsf.gov/"><img src="images/NSF_4-Color_bitmap_Logo.png" width="150" height="150">
+  <a href="http://earthcube.org/" target="_blank"><img src="images/logo_earthcube_full_horizontal.png" height="125">
+  <a href="https://nsf.gov/" target="_blank"><img src="images/NSF_4-Color_bitmap_Logo.png" width="125" height="125">
 </p>
 
 
