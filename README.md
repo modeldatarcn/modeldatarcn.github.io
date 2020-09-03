@@ -3,8 +3,8 @@
 [![](images/NSF_4-Color_bitmap_Logo.png)](https://nsf.gov/)
 
 <p align="center">
-  <img src="images/logo_earthcube_full_horizontal.png" height="50">
-  <img src="images/NSF_4-Color_bitmap_Logo.png" width="50" height="50">
+  <img src="images/logo_earthcube_full_horizontal.png" height="200">
+  <img src="images/NSF_4-Color_bitmap_Logo.png" width="200" height="200">
 </p>
 
 
