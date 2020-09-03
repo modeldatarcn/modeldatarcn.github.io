@@ -1,3 +1,5 @@
+![](logo_earthcube_full_horizontal.png)
+
 ## Navigate to:
 * [Project Description](index.md/#project-description)
 * [Workshop Information](index.md/#workshop-information)
