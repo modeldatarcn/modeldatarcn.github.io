@@ -1,4 +1,4 @@
-[![](logo_earthcube_full_horizontal.png)](http://earthcube.org/)
+[![](images/logo_earthcube_full_horizontal.png)](http://earthcube.org/)
 
 ## Navigate to:
 * [Project Description](index.md/#project-description)
