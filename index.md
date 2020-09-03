@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://earthcube.org/" target="_blank"><img src="images/logo_earthcube_full_horizontal.png" height="120">
-  <a href="https://nsf.gov/" target="_blank"><img src="images/NSF_4-Color_bitmap_Logo.png" width="120" height="120">
+  <a href="http://earthcube.org/" target="_blank"><img src="images/logo_earthcube_full_horizontal.png" height="100">
+  <a href="https://nsf.gov/" target="_blank"><img src="images/NSF_4-Color_bitmap_Logo.png" width="100" height="100">
 </p>
 
 
