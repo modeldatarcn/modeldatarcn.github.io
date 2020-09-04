@@ -1,3 +1,10 @@
+<a href="http://earthcube.org/" target="_blank"><img src="../../images/logo_earthcube_full_horizontal.png" height="100" align="left">
+<a href="https://nsf.gov/" target="_blank"><img src="../../images/NSF_4-Color_bitmap_Logo.png" width="100" height="100" align="center">
+ 
+ 
+
+
+
 ## Workshop 1 Outputs
 * [Workshop 1 Summary Report](Model Data RCN - Workshop 1 Report.pdf)
 * [Final Workshop 1 Draft Rubric -PDF](Descriptor-classifications-worksheet-Workshop1.pdf) 
