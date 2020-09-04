@@ -18,22 +18,23 @@ forecasting, is conducted using computational models that simulate the Earth's a
 geoscience models are part of the full research workflow that leads to scientific discovery. There is strong agreement across
 the sciences that reproducible workflows are needed. Open and reproducible workflows not only strengthen public confidence in
 the sciences, but also result in more efficient community science, leading to faster time to science. However, recent efforts
-to standardize data sharing and archiving guidelines within research institutions, professional societies, and academic
+to standardize data sharing and preservation guidelines within research institutions, professional societies, and academic
 publishers make clear that the scientific community does not know what to do about data produced as output from the
-computational models. To date, the rule for reproducibility is to "save all the data", but model data can be prohibitively
+computational models. To date, the rule for reproducibility is to "preserve all the data", but model data can be prohibitively
 large, particularly in a field like atmospheric science. The massive size of the model outputs, as well as the large
 computational cost to produce these outputs, makes this not only a problem of reproducibility, but also a "big data" problem.
 To achieve open and reproducible workflows in geoscience modeling research, this project will bring together modelers
 representing diverse research areas and application types, and representing modeling efforts from large to small.
 
 Discussion across different modeling communities suggests that the answer to "what to do about model data" will look different
-depending on model descriptors. Examples of important model descriptors include reproducibility, storage vs. computational
-costs, and value to the community. Since the atmospheric model community is incredibly diverse, this project will organize
+depending on model descriptors. Examples of important model descriptors include communnity commitment, simulation workflow accessibility, 
+simulation output accessibility, research feature reproducibility, and cost of running simulation workflow vs cost of repository 
+data management services. Since the atmospheric model community is incredibly diverse, this project will organize
 community workshops to tackle the problem. These workshops will involve representatives from across the geoscience modeling
 spectrum, including both operations and research, and ranging across complexity and size. The ultimate goal of these workshops
-is to provide model data best practices to the community, including scientific journal publishers, and funding agencies. To
+is to provide model data management best practices to the community, including scientific journal publishers, and funding agencies. To
 achieve this goal, this team of researchers suggests to craft rubrics based on the model descriptors that will help
-researchers and centers describe their model data in consistent terms so that proper decisions are made regarding archiving
+researchers and centers describe their model data in consistent terms so that proper decisions are made regarding preservation
 and retention.
 
 ## [Workshop Information](#workshop-information)
