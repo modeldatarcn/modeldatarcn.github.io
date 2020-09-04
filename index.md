@@ -43,11 +43,12 @@ and retention.
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
     * [Workshop 1 Welcome Video](workshop1/presentations/welcome_video.mp4)
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
-    * [Workshop Outputs](workshop1/documents/outputs.md)
+    * [Workshop 1 Outputs](workshop1/documents/outputs.md)
   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
     * [Agenda](workshop2/documents/Model Data RCN Virtual Workshop 2 Agenda.pdf)
     * [Workshop 2 Welcome Video](workshop2/presentations/Welcome_WhatAboutModelData_Aug2020.mp4)
     * [Aug 3 Plenary Presentations](workshop2/presentations/presentations.md)
+    * [Workshop 2 Outputs](workshop2/documents/outputs.md)
 
 ## [Steering Committee](#steering-committee)
  
