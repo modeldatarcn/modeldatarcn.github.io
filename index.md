@@ -27,7 +27,7 @@ To achieve open and reproducible workflows in geoscience modeling research, this
 representing diverse research areas and application types, and representing modeling efforts from large to small.
 
 Discussion across different modeling communities suggests that the answer to "what to do about model data" will look different
-depending on model descriptors. Examples of important model descriptors include communnity commitment, simulation workflow accessibility, 
+depending on model descriptors. Examples of important model descriptors include community commitment, simulation workflow accessibility, 
 simulation output accessibility, research feature reproducibility, and cost of running simulation workflow vs cost of repository 
 data management services. Since the atmospheric model community is incredibly diverse, this project will organize
 community workshops to tackle the problem. These workshops will involve representatives from across the geoscience modeling
