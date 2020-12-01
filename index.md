@@ -37,7 +37,8 @@ achieve this goal, this team of researchers suggests to craft rubrics based on t
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding preservation
 and retention.
 
-Additional project background information can be found on the [Project Outreach Page](outreach/outreach.md).
+Additional project background information can be found on the [Project Outreach Page](outreach/outreach.md).  If you are interested in recieving updates
+about project activities and invitations to join future workshops, please contact Doug Schuster (schuster@ucar.edu) to join the project mailing list.
 
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
