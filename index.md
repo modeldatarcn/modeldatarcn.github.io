@@ -37,7 +37,7 @@ achieve this goal, this team of researchers suggests to craft rubrics based on t
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding preservation
 and retention.
 
-Additional project background can be found in the [Project Overview Page](overview/overview.md)
+Additional project background information can be found on the [Project Outreach Page](outreach/outreach.md).
 
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
