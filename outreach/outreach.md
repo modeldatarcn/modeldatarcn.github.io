@@ -8,7 +8,7 @@
 
 ## Outreach Materials
 * [WhatAboutModelData_OnePager](WhatAboutModelData_OnePager.pdf) 
-* [ProjectOverviewVideo](https://youtu.be/JYTdO3p5jFM)
+* [Project Overview Video](https://youtu.be/JYTdO3p5jFM)
 
 
 
