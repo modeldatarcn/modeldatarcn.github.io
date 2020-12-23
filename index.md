@@ -5,8 +5,8 @@
 
 ## Most Recent Project Outputs:
 * [Project Status Report](workshop2/documents/Model%20Data%20RCN%20-%20Workshop%202%20Report.pdf)
-* [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
-* [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
+* [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
+* [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
 
 ## Navigate to:
 * [Project Description](index.md/#project-description)
