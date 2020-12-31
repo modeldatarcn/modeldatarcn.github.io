@@ -5,7 +5,7 @@
 
 ## Most Recent Project Outputs:
 * [Project Status Report](workshop2/documents/Model%20Data%20RCN%20-%20Workshop%202%20Report.pdf)
-* [Rubric Usage Instructions](rubrics-worksheets/Rubric-Instructions.pdf)
+* [Rubric Usage Instructions and Use Case Examples](rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf)
 * [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
 
