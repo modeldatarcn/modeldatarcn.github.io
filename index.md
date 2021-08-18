@@ -36,7 +36,8 @@ simulation output accessibility, research feature reproducibility, and cost of r
 data management services. Since the atmospheric model community is incredibly diverse, this project will organize
 community workshops to tackle the problem. These workshops will involve representatives from across the geoscience modeling
 spectrum, including both operations and research, and ranging across complexity and size. The ultimate goal of these workshops
-is to provide model data management best practices to the community, including scientific journal publishers, and funding agencies. To
+is to develop guidance on what data and software elements of simulation based research need 
+to be preserved and shared to meet community open science expectations, including those of funders and publishers. To
 achieve this goal, this team of researchers suggests to craft rubrics based on the model descriptors that will help
 researchers and centers describe their model data in consistent terms so that proper decisions are made regarding preservation
 and retention.
