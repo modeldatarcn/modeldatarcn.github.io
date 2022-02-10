@@ -84,7 +84,7 @@ community-developed, state-of-the-art global climate model.
 Dr. Hacker is a co-founder of Jupiter Intelligence, Inc., and leads the Earth and Ocean Systems team at Jupiter.  His research has spanned numerical weather prediction, predictability and data assimilation.  His computing experience and interests span traditional HPC to public cloud platforms.
 
 ### Michael A. Friedman, American Meteorological Society (AMS) 
-Dr. Friedman is the Senior Manager for Publishing Operations within 
+Dr. Friedman is the Senior Manager for Publishing Operations at 
 the American Meteorological Society (AMS). He also serves as the AMS staff liaison to the 
 AMS Board on Data Stewardship, and is involved with external initiatives to develop common 
 approaches and standards for data citation, storage, and stewardship among publishers, funders, 
