@@ -91,7 +91,7 @@ approaches and standards for data citation, storage, and stewardship among publi
 and repositories in the earth and space sciences.
 
 ### Jared Marquis, Univeristy of North Dakota, Atmospheric Sciences
-Mr. Marquis is a PhD student in the Department of Atmospheric Science at the University of North Dakota under Dr. Jianglong Zhang.  His research experience includes estimating impact of cirrus cloud contamination in infrared sea surface temperature retrieval using radiative transfer simulations, dust and cirrus biases in hyperspectral radiance assimilation, and various modification of radiative transfer code microphysics and solar models.  Other research interests include remote sensing, seasonal range forecasts, and mesoscale modeling.
+Dr. Marquis is an Assistant Professor in the Department of Atmospheric Science at the University of North Dakota. His research is primarily on methods of all-sky hyperspectral satellite data assimilation, though he has extensive experience in radiative transfer and remote sensing.  Other research interests include synoptic meteorology and mesoscale modeling.
 
 ### Matthew Mayernik, NCAR, Library, co-PI
 Dr. Mayernik leads NCAR initiatives on data citation, management, and policy. He is also a member 
