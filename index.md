@@ -8,6 +8,7 @@
 * [Rubric Usage Instructions and Use Case Examples](rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf)
 * [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
+* [Open Science Expectations for Simulation-Based Research](https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full)
 
 ## Navigate to:
 * [Project Description](index.md/#project-description)
@@ -102,8 +103,7 @@ recommendation that was instituted in 2015.
 ### Gretchen Mullendore, University of North Dakota, Atmospheric Sciences, co-PI
 Dr. Mullendore has used a range of mesoscale models throughout her research career (e.g., UW-COMMAS, WRF). 
 She has used models for many different outcomes, ranging from idealized sensitivity studies to 
-real-time operational forecasting. Dr. Mullendore teaches graduate-level classes in NWP and 
-is a member of the Unidata Strategic Advisory Committee.
+real-time operational forecasting. Dr. Mullendore is the Director of the Mesoscale and Microscale Meteorology Lab (MMM) at NCAR.
 
 ### Elisa Murillo, Univeristy of Oklahoma, School of Meteorology
 Ms. Murillo is a PhD candidate in the School of Meteorology at the University of Oklahoma working with Dr. Cameron Homeyer. Her research interests focus on tropopause-penetrating convection, and her model experience includes a variety of science objectives, such as idealized sensitivity studies of mesoscale models and global ensemble models (e.g. CESM).
