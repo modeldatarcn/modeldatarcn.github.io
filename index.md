@@ -8,7 +8,7 @@
 * [Rubric Usage Instructions and Use Case Examples](rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf)
 * [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
-* [Open Science Expectations for Simulation-Based Research](https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full)
+* [Mullendore GL, Mayernik MS and Schuster DC (2021) Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. doi: 10.3389/fclim.2021.763420](https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full)
 
 ## Navigate to:
 * [Project Description](index.md/#project-description)
