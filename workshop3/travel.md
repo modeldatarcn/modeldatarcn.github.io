@@ -1,7 +1,7 @@
-<h2>July 25-27, 2022 Workshop, Grand Forks, ND -Travel Information</h2>
+<h1>July 25-27, 2022 Workshop, Grand Forks, ND -Travel Information</h1>
 
 
-Participants are asked to book their own flights and hotel.  We will reimburse you for these costs (and provide per diem).  We recognize that student and early career participants may need help covering the upfront costs; please email Jared.Marquis@UND.edu to learn about other options available.  
+Participants are asked to book their own flights and hotel.  We will reimburse you for these costs (and provide per diem).  We recognize that student and early career participants may need help covering the upfront costs; please email [Jared.Marquis@UND.edu](mailto:Jared.Marquis@UND.edu) to learn about other options available.  
 
 **Flights**    
 Grand Forks Airport (GFK):     
@@ -20,7 +20,7 @@ Fargo Airport (FAR)*:
 We have reserved a block of rooms at the CanadInn. Block is called “***Earthcube***”.
 * Rates are $95 and include breakfast. 
 * ND State Employees will only be reimbursed $86.40 for their room. 
-* Website: https://www.canadinns.com/stay/grand-forks
+* Website: [https://www.canadinns.com/stay/grand-forks](https://www.canadinns.com/stay/grand-forks)
 * Phone: 701-772-8404
 
 **Food**  
@@ -32,7 +32,7 @@ Restaurants near the CanadInn - Tavern United (in building), Boss’ Pizza & Chi
 Per diem is $35/day. 
 
 **Reimbursement**  
-Paperwork to handle your reimbursement will be processed at the start of the workshop.  You can either print out receipts and bring them with you or email them to wanda.seyler@und.edu.
+Paperwork to handle your reimbursement will be processed at the start of the workshop.  You can either print out receipts and bring them with you or email them to [wanda.seyler@und.edu](mailto:wanda.seyler@und.edu).
 
 All participants will need to complete a W-4 to be reimbursed for your expenses. 
-fw4.pdf - Internal Revenue Service
+[fw4.pdf - Internal Revenue Service](https://www.irs.gov/pub/irs-pdf/fw4.pdf)
