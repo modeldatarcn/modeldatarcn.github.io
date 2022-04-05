@@ -34,5 +34,5 @@ Per diem is $35/day.
 **Reimbursement**  
 Paperwork to handle your reimbursement will be processed at the start of the workshop.  You can either print out receipts and bring them with you or email them to [wanda.seyler@und.edu](mailto:wanda.seyler@und.edu).
 
-All participants will need to complete a W-4 to be reimbursed for your expenses. 
+All participants will need to complete a W-4 to be reimbursed for your expenses.   
 [fw4.pdf - Internal Revenue Service](https://www.irs.gov/pub/irs-pdf/fw4.pdf)
