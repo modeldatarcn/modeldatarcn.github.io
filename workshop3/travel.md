@@ -1,5 +1,5 @@
 <h1>EarthCube Research Coordination Network
-"What About Model Data?" - Best Practices for Preservation and Replicability July 25-27, 2022 Workshop, Grand Forks, ND</h1>
+"What About Model Data?" - Best Practices for Preservation and Replicability July 25-27, 2022 Workshop, Grand Forks, ND -Travel Information</h1>
 
 
 Participants are asked to book their own flights and hotel.  We will reimburse you for these costs (and provide per diem).  We recognize that student and early career participants may need help covering the upfront costs; please email Jared.Marquis@UND.edu to learn about other options available.  
