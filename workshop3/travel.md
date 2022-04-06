@@ -7,7 +7,7 @@
 Participants are asked to book their own flights and hotel.  We will reimburse you for these costs (and provide per diem).  We recognize that student and early career participants may need help covering the upfront costs; please email [Jared.Marquis@UND.edu](mailto:Jared.Marquis@UND.edu) to learn about other options available.  
   
 **Tentative Workshop Dates/Times(CDT)**  
-  July 25, 9:00am - 3:30pm  
+  July 25, 10:00am - 4:00pm  
   July 26, 9:00am - 4:00pm  
   July 27, 9:00am - 11:30am  
 
