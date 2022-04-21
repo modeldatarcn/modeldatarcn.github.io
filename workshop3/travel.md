@@ -26,7 +26,7 @@ Fargo Airport (FAR)*:
 
 **Hotel**   
 We have reserved a block of rooms at the CanadInn. Block is called “***Earthcube***”. You must call the hotel to make your reservation for the room block ***by May 25***.
-* Rates are $95 and include breakfast. 
+* Rates are $99 (To be confirmed) and include breakfast. 
 * ND State Employees will only be reimbursed $86.40 for their room. 
 * Website: [https://www.canadinns.com/stay/grand-forks](https://www.canadinns.com/stay/grand-forks)
 * Phone: 701-772-8404
