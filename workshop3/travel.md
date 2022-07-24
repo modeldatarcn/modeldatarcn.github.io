@@ -15,7 +15,7 @@ Participants are asked to book their own flights and hotel.  We will reimburse y
 Grand Forks Airport (GFK):     
 * 10 minutes from hotel
 * Major Carriers: Delta (via Minneapolis only)  
-* Transportation Options to CanadInn: CanadInn has a shuttle - must be booked ahead of time with hotel using reservation.  Rideshare (e.g., Uber/Lyft) & Taxis are also available.  Grand Forks generally has only about half a dozen rideshare drivers at any given time, so wait times may vary.  Taxis can be reserved by contacting S&S Taxis: [https://www.sstaxis.com/](https://www.sstaxis.com/).
+* Transportation Options to CanadInn: CanadInn has a shuttle - you just need to call the front desk and say when you'll need a pickup: 701-772-8404.  Rideshare (e.g., Uber/Lyft) & Taxis are also available.  Grand Forks generally has only about half a dozen rideshare drivers at any given time, so wait times may vary.  Taxis can be reserved by contacting S&S Taxis: [https://www.sstaxis.com/](https://www.sstaxis.com/).
 
 Fargo Airport (FAR)*:
 * 75 minutes from hotel
