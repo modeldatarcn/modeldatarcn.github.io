@@ -51,6 +51,7 @@ about project activities and invitations to join future workshops, please contac
 * Workshop Locations and Dates
   * Upcoming: Jul 25 - 27, 2022, Univeristy of North Dakota, Grand Forks
     * [Agenda](workshop3/documents/July2022-Workshop-Agenda.pdf)
+    * [July 25, 2022 Plenary Presentations](workshop3/presentations/presentations.md)
     * [Workshop Overview and Invitation](workshop3/July2022-Workshop-Invite.pdf)
     * [Instructions to book travel](workshop3/travel.md)
   * Virtual: May 5-7, 2020
