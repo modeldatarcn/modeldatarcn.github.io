@@ -10,6 +10,7 @@
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
 * [Mullendore GL, Mayernik MS and Schuster DC (2021) Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. doi: 10.3389/fclim.2021.763420](https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full)
 * [Products developed through the "What About Model Data?, Determining Best Practices for Preservation and Replicability, EarthCube Research Coordination Network" project](https://doi.org/10.5065/g936-q118)
+* [Community Resources](communityresources/resources.md)
 
 ## Navigate to:
 * [Project Description](index.md/#project-description)
