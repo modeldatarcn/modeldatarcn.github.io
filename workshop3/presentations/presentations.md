@@ -10,4 +10,4 @@
   * [Sustainable Data and Software Curation?!, Susan Borda, UMich](DataCuration.pptx.pdf) 
   * [Determining Lifetime for Simulation Data, how to evaluate when data can be de-accessed from a repository -A scientist perspective, Cindy Bruyere, UCAR/CPAESS](DataWorkshop_ND_Bruyere.pptx.pdf)
   * [Steps Toward Incetivizing data and software sharing, Chris Erdmann, AGU](2022-07-25-erdmann-incentives-modelrcn.pdf)
-  * [Open Science and Equitable Research Opportunities, Including Equitable Access to Data and Software Curation Resources, Scott Collis, DOE](EC-RCN-Collis.pptx.pdf)
+  * [Open Science and Equitable Research Opportunities, Including Equitable Access to Data and Software Curation Resources, Scott Collis, DOE](EC-RCN-Collis.pdf)
