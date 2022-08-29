@@ -50,11 +50,12 @@ about project activities and invitations to join future workshops, please contac
 
 ## [Workshop Information](#workshop-information)
 * Workshop Locations and Dates
-  * Upcoming: Jul 25 - 27, 2022, Univeristy of North Dakota, Grand Forks
+  * Jul 25 - 27, 2022, Univeristy of North Dakota, Grand Forks
     * [Agenda](workshop3/documents/July2022-Workshop-Agenda.pdf)
     * [July 25, 2022 Plenary Presentations](workshop3/presentations/presentations.md)
     * [Workshop Overview and Invitation](workshop3/July2022-Workshop-Invite.pdf)
     * [Instructions to book travel](workshop3/travel.md)
+    * [Workshop 3 Outputs](workshop3/documents/outputs.md)
   * Virtual: May 5-7, 2020
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
     * [Workshop 1 Welcome Video](workshop1/presentations/welcome_video.mp4)
