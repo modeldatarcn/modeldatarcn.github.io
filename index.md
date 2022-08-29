@@ -55,7 +55,7 @@ about project activities and invitations to join future workshops, please contac
     * [Workshop Overview and Invitation](workshop3/July2022-Workshop-Invite.pdf)
     * [July 25, 2022 Plenary Presentations](workshop3/presentations/presentations.md)
     * [Workshop 3 Outputs](workshop3/documents/outputs.md)
-   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
+  * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
     * [Agenda](workshop2/documents/Model Data RCN Virtual Workshop 2 Agenda.pdf)
     * [Workshop 2 Welcome Video](workshop2/presentations/Welcome_WhatAboutModelData_Aug2020.mp4)
     * [Aug 3 Plenary Presentations](workshop2/presentations/presentations.md)
