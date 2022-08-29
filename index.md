@@ -52,20 +52,20 @@ about project activities and invitations to join future workshops, please contac
 * Workshop Locations and Dates
   * Jul 25 - 27, 2022, Univeristy of North Dakota, Grand Forks
     * [Agenda](workshop3/documents/July2022-Workshop-Agenda.pdf)
-    * [July 25, 2022 Plenary Presentations](workshop3/presentations/presentations.md)
     * [Workshop Overview and Invitation](workshop3/July2022-Workshop-Invite.pdf)
-    * [Instructions to book travel](workshop3/travel.md)
+    * [July 25, 2022 Plenary Presentations](workshop3/presentations/presentations.md)
     * [Workshop 3 Outputs](workshop3/documents/outputs.md)
+   * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
+    * [Agenda](workshop2/documents/Model Data RCN Virtual Workshop 2 Agenda.pdf)
+    * [Workshop 2 Welcome Video](workshop2/presentations/Welcome_WhatAboutModelData_Aug2020.mp4)
+    * [Aug 3 Plenary Presentations](workshop2/presentations/presentations.md)
+    * [Workshop 2 Outputs](workshop2/documents/outputs.md)
   * Virtual: May 5-7, 2020
     * [Agenda](workshop1/documents/Model Data RCN Virtual Workshop 1 Agenda.pdf) 
     * [Workshop 1 Welcome Video](workshop1/presentations/welcome_video.mp4)
     * [May 5 Plenary Presentations](workshop1/presentations/presentations.md)
     * [Workshop 1 Outputs](workshop1/documents/outputs.md)
-  * Virtual: Aug 3-5, 2020, 9AM to 12PM MDT daily
-    * [Agenda](workshop2/documents/Model Data RCN Virtual Workshop 2 Agenda.pdf)
-    * [Workshop 2 Welcome Video](workshop2/presentations/Welcome_WhatAboutModelData_Aug2020.mp4)
-    * [Aug 3 Plenary Presentations](workshop2/presentations/presentations.md)
-    * [Workshop 2 Outputs](workshop2/documents/outputs.md)
+
 
 ## [Steering Committee](#steering-committee)
  
