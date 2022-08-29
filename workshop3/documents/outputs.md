@@ -7,6 +7,6 @@
 
 ## Workshop 3 Outputs
 * [Workshop 2 Summary Report -to be added]
-* [Workshop 3 Agenda](Model Data RCN Virtual Workshop 3 Agenda.pdf)
+* [Workshop 3 Agenda](July2022-Workshop-Agenda.pdf)
 * [General Workshop 3 Notes -to be added]
 * [Workshop 3 Participants](Workshop3Registrants.pdf)
