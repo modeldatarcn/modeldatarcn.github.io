@@ -6,7 +6,7 @@
 
 
 ## Workshop 3 Outputs
-* Workshop  Summary Report -to be added
+* [Workshop  Summary Report -to be added]
 * [Workshop 3 Agenda](July2022-Workshop-Agenda.pdf)
 * [General Workshop 3 Notes -to be added]
 * [Workshop 3 Participants](Workshop3Registrants.pdf)
