@@ -17,4 +17,4 @@
  
  
  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPl4eDXTGt1eCGUAJbciWj__vS1wrhjX-zZuJoMTzfp2vAATKGnB-YrtTYuwjFX3rcXRAYNRQING1G/pubhtml?widget=true&amp;headers=false"></iframe>
+<center><iframe width="500" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPl4eDXTGt1eCGUAJbciWj__vS1wrhjX-zZuJoMTzfp2vAATKGnB-YrtTYuwjFX3rcXRAYNRQING1G/pubhtml?widget=true&amp;headers=false"></iframe></center>
