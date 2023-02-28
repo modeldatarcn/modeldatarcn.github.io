@@ -13,3 +13,5 @@
 * [Draft Rubric v1.1 (Jul 18, 2020) -xlsx](Descriptor-classifications-worksheet-v1.1.xlsx)
 * [Draft Rubric v1.0 (May 7, 2020) -PDF](Descriptor-classifications-worksheet-v1.0.pdf) 
 * [Draft Rubric v1.0 (May 7, 2020) -xlsx](Descriptor-classifications-worksheet-v1.0.xlsx)
+ 
+ <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPl4eDXTGt1eCGUAJbciWj__vS1wrhjX-zZuJoMTzfp2vAATKGnB-YrtTYuwjFX3rcXRAYNRQING1G/pubhtml?widget=true&amp;headers=false"></iframe>
