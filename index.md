@@ -4,10 +4,11 @@
  
 
 ## Most Recent Project Outputs:
-* [Project Status Report](workshop3/documents/Model Data RCN - Workshop 3 Report.pdf)
 * [Rubric Usage Instructions and Use Case Examples](rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf)
+* [Example Interactive Rubric](rubrics-worksheets/rubric-example.html)
 * [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
+* [Project Status Report](workshop3/documents/Model Data RCN - Workshop 3 Report.pdf)
 * [Mullendore GL, Mayernik MS and Schuster DC (2021) Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. doi: 10.3389/fclim.2021.763420](https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full)
 * [Products developed through the "What About Model Data?, Determining Best Practices for Preservation and Replicability, EarthCube Research Coordination Network" project](https://doi.org/10.5065/g936-q118)
 * [Community Resources](communityresources/resources.md)
