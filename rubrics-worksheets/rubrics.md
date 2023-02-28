@@ -7,6 +7,7 @@
 
 ## Rubric Worksheet Versions
 * [Rubric Usage Instructions and Use Case Examples (Jul 1, 2021) -PDF](Rubric-Instructions-and-Use-Cases.pdf)
+* [Interactive Rubric Example](rubric-example.md)
 * [Draft Rubric v2.0 (Aug 26, 2020) -PDF](Descriptor-classifications-worksheet-v2.0.pdf) 
 * [Draft Rubric v2.0 (Aug 26, 2020) -xlsx](Descriptor-classifications-worksheet-v2.0.xlsx)
 * [Draft Rubric v1.1 (Jul 18, 2020) -PDF](Descriptor-classifications-worksheet-v1.1.pdf) 
