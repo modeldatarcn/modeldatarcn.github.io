@@ -5,7 +5,7 @@
 
 ## Most Recent Project Outputs:
 * [Rubric Usage Instructions and Use Case Examples](rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf)
-* [Example Interactive Rubric](rubrics-worksheets/rubric-example.md)
+* [Example Interactive Rubric](rubrics-worksheets/rubric-example.md){:target="_blank" rel="noopener"}
 * [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
 * [Project Status Report](workshop3/documents/Model Data RCN - Workshop 3 Report.pdf)
