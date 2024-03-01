@@ -8,6 +8,7 @@
 * [Example Interactive Rubric](rubrics-worksheets/rubric-example.md){:target="_blank" rel="noopener"}
 * [Current Rubric Version (PDF)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.pdf)
 * [Current Rubric Version (Microsoft Excel)](rubrics-worksheets/Descriptor-classifications-worksheet-v2.0.xlsx)
+* [Example Rubric Survey](https://zoidy.shinyapps.io/ModelDataRubric/)
 * [Project Status Report](workshop3/documents/Model Data RCN - Workshop 3 Report.pdf)
 * [Schuster, D. C., M. S. Mayernik, G. L. Mullendore, and J. W. Marquis, 2023: What about Model Data? Best Practices for Preservation and Replicability. Bull. Amer. Meteor. Soc., 104, E2053–E2064, https://doi.org/10.1175/BAMS-D-22-0252.1.](https://doi.org/10.1175/BAMS-D-22-0252.1)
 * [Mullendore GL, Mayernik MS and Schuster DC (2021) Open Science Expectations for Simulation-Based Research. Front. Clim. 3:763420. doi: 10.3389/fclim.2021.763420](https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full)
